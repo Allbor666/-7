@@ -55,7 +55,7 @@ class WordsFinder:
 # Создание тестового файла
 def create_test_file():
     with open('test_file.txt', 'w', encoding='utf-8') as file:
-        content = """It's a test file.
+        content = """It's a text file.
 For the task "найти везде" 
 используйте его для самопроверки! 
 Успехов в решении задачи.
